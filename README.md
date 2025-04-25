@@ -1,1 +1,7 @@
-# CS-330
+When I design software, I start by breaking big problems into smaller pieces. For my 3D project, I worked on one part at a time - first the objects, then lights, then camera controls. This helped me learn how to organize code better and reuse parts of it. I built my project step by step, starting simple and adding details later. This way of working will help me with future projects too.
+
+For programming, I learned to build the most important parts first. I made the camera work before adding complicated models. I kept testing and fixing my code as I went along. At first I just fixed problems as they came up, but now I test each part carefully before putting everything together. Working with OpenGL taught me how to solve tricky coding problems.
+
+Learning computer science helps me think logically to solve problems. The 3D graphics work improved my math skills and how I imagine objects in space. These skills are useful for school projects and can help me get jobs in game design, virtual reality, or data visualization. I also got better at showing information visually, which is important for many tech jobs.
+
+This project changed how I work. I now plan better, improve my work gradually, and can adapt when things change. Mixing creative ideas with technical skills through graphics programming gave me useful tools for school and future jobs where I need to build interactive systems or explain complex ideas visually.
